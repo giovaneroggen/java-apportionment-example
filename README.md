@@ -23,5 +23,4 @@ assertEquals(expected, realTotal)
 `OBVIOUSLY YOU WILL GET AN ASSERTION ERROR DOING THIS`
 
 ### So take a look about this implementation!
-
 [Usage example](/src/test/java/br/com/roggen/apportionment/ApportionmentServiceTest.java)
